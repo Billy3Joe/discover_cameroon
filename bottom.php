@@ -1,36 +1,39 @@
-<div class="fotter">
+<div class="fotter" style="background-color:#FFA500;">
 	 <div class="container">
 		 <div class="fotter-grids">
 			 <div class="col-md-4 fotter-left">
-			 <img src="images/logo2.png" alt="">
-			 <p>POUR UNE DECOUVERTE EXCEPTIONNEL.</p>
+			 <div class="logo">
+				<h1><strong style="background-color: green;">T</strong>hriving<br><strong style="font-size: 10px;">in Cameroon</strong></h1>
+			  <!-- <a href="#"><img src="images/logo.png" id="section-1" class="img-responsive" alt="logo"/ width="100px" height="100px"></a> -->
+			 </div>
+			 
 			 </div>
 			 <div class="col-md-4 fotter-middle">
-				 <h3>Questions About Our Tours?</h3>
+				 <h3>Questions par rapport au voyage?</h3>
 				 <div class="footer-list">
 					<ul>
                         <li style="text-align:justify"><a href="#"><span></span>
-                        Our Customer Service Department is always happy to answer any questions you might have. Please visit our Contact Page to contact us or call us at 9779730479.</a></li></ul> </div>
-						<h3>why makemytrip?</h3>
+                        Notre service client est toujours heureux de répondre à toutes vos questions. Veuillez visiter notre page de contact pour nous contacter.</a></li></ul> </div>
+						<h3>Pourquoi passer par nous?</h3>
                         <div class="footer-list">
                         <ul>
 
-						<li style="text-align:justify"><a href="#"><span></span>Customer Satisfaction<br/></a></li>
-						<li style="text-align:justify"><a href="#"><span></span>Superior customer service, 24x7 Dedicated helpline and over 5 million delighted customers & still growing.<br/></a></li>
-						<li style="text-align:justify"><a href="#"><span></span>Best Deals Guaranteed<br/></a></li>
-						<li style="text-align:justify"><a href="#"><span></span>Great experiences at lowest prices guaranteed.<br/></a></li>
+						<li style="text-align:justify"><a href="#"><span></span>Satisfaction du client<br/></a></li>
+						<li style="text-align:justify"><a href="#"><span></span>Service client supérieur, ligne d'assistance dédiée 24h/24 et 7j/7 et plus de 5 millions de clients ravis et toujours en croissance.<br/></a></li>
+						<li style="text-align:justify"><a href="#"><span></span>Meilleures offres garanties<br/></a></li>
+						<li style="text-align:justify"><a href="#"><span></span>De grandes expériences aux prix les plus bas garantis.<br/></a></li>
 						</a></li> 
 					</ul>
 			 </div>
 
 			 </div>
 			 <div class="col-md-4 fotter-right" style="padding-left:70px">
-				<h3>Why buy from us?</h3><br/>
+				<h3>Pourquoi vous engagez?</h3><br/>
 				<div class="footer-list">
 					<ul>
-						<li style="color:#FFF"><a href="#" style="color:#FFF"><span></span> Payment Security</a></li>
-						<li style="color:#FFF"><a href="#" style="color:#FFF"><span></span> Travel Guide</a></li>
-						<li style="color:#FFF"><a href="#" style="color:#FFF"><span></span> Social Responsibility</a></li>
+						<li style="color:#FFF"><a href="#" style="color:#FFF"><span></span>Payement sécurisé</a></li>
+						<li style="color:#FFF"><a href="#" style="color:#FFF"><span></span>Guide de voyage</a></li>
+						<li style="color:#FFF"><a href="#" style="color:#FFF"><span></span><p>Pour une découverte exceptionnelle.</p></a></li>
 					</ul> 
 			   </div>
 			</div>

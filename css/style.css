@@ -6,11 +6,11 @@
 --*/
 
 .headingText{
-	font-size:28px; color:#09F;
+	font-size:28px; color:#FFA500;
 	margin:5px;
 	font-weight:bold;
 	text-shadow:1px 1px 2px black;;
-	text-align:center;
+	text-align:center;  
 }
 .paraText{
 line-height:25px;
@@ -70,7 +70,7 @@ display:inline-block;
 margin: 0 0.5em;
 }
 .top-nav ul li a{
-color:#60B0E6;
+color:#FFA500;
 text-decoration:none;
 padding:0.4em 1.5em;
 display:block;
@@ -79,7 +79,7 @@ font-size:1.1em;
 font-weight:400;
 }
 .top-nav ul li.active a,.top-nav ul li a:hover,#nav .current a{
-border:1px solid #60B0E6;
+border:1px solid #FFA500;
 }
 .fixed{
 	position: fixed;
@@ -317,7 +317,7 @@ text-decoration:none;
 }
 .header-info h2 a:hover{
 color:#fff;
-background:#60B0E6;
+background:#FFA500;
 }
 .header-info lable{
 background:#fff;
@@ -344,7 +344,7 @@ color:#CA670C;
 padding-top: 6%;
 }
 .about-head h3 {
-color: #60B0E6;
+color: #FFA500;
 font-size: 1.97em;
 }
 .about-grids h4 {
@@ -352,62 +352,14 @@ font-size: 1.4em;
 font-weight: 500;
 color: #343E46;
 }
-.about-head img{
-margin:1em 1em 0 0;
-}
-.about-head span{
-background:rgba(128, 128, 128, 0.41);
-width:5.5%;
-height:1px;
-display: inline-block;
-vertical-align: text-bottom;
-}
-.about-head span:nth-child(2){
-margin-right:1em;
-}
-.about-grids{
-margin-top:3.5em;
-}
-.about-grids h4 span{
-background: url("../images/about-icons.png") no-repeat 0 0;
-width: 46px;
-height: 37px;
-display: inline-block;
-vertical-align: middle;
-margin-right: 0.5em;
-margin-top: 0.7em;
-cursor:pointer;
-}
-.about-grids h4 span.icon1{
-background-position:0px 0px;
-}
-.about-grids h4 span.icon1:hover{
-background-position:0px -48px;
-}
-.about-grids h4 span.icon2{
-background-position:-405px 0;
-}
-.about-grids h4 span.icon2:hover{
-background-position:-405px 0;
-}
-.about-grids h4 span.icon3{
-background-position:-810px 1px;
-}
-.about-grids h4 span.icon3:hover{
-background-position:-809px -48px;
-}
-.about-grids p {
-margin-left: 4em;
-width: 87%;
-line-height: 23px;
-color: #9EA4A9;
-}
+
+
 /*--top-tours--*/
 .top-tours-head {
 padding-top:6%;
 }
 .top-tours-head h3 {
-color: #60B0E6;
+color: #FFA500;
 font-size: 1.97em;
 }
 .top-tours-head img{
@@ -531,12 +483,12 @@ ul#filters {
 	border-radius:2px;
 }
 #filters li span.active{
-	color:#6BB5E8;
-	border:1px solid #6BB5E8;
+	color:#FFA500;
+	border:1px solid #FFA500;
 }
 #filters li span:hover{
-	border:1px solid #6BB5E8;
-	color:#6BB5E8;
+	border:1px solid #FFA500;
+	color:#FFA500;
 }
  #portfoliolist .portfolio {
 	-webkit-box-sizing: border-box;
@@ -575,7 +527,7 @@ div#portfoliolist {
 	bottom:-40px;
 }
 .portfolio .label-bg {
-	background: #22B4B8;
+	background: #FFA500;
 	width: 100%;
 	height:100%;
 	position: absolute;
@@ -714,7 +666,7 @@ padding-top:6%;
 margin-bottom: 10%;
 }
 .tour-guides-head h3 {
-color: #60B0E6;
+color: #FFA500;
 font-size: 1.97em;
 }
 .tour-guides-head span{
@@ -750,7 +702,7 @@ color:#80C0EB;
 /*--/tour-guides--*/
 /*--client-say--*/
 .client-say-head h3 {
-color: #60B0E6;
+color: #FFA500;
 font-size: 1.97em;
 padding-top: 3.5em;
 }
@@ -810,7 +762,7 @@ display: inline-block;
 /*--/client-say--*/
 /*--contact--*/
 .contact-head h3 {
-color: #60B0E6;
+color: #FFA500;
 font-size: 1.97em;
 }
 .contact-head{

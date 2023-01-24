@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
+<title>Slides Villes Cameroun</title>
 </head>
 
 <body>
@@ -35,52 +35,52 @@
 			    <div id="top" class="callbacks_container">
 			      <ul class="rslides" id="slider4">
 			        <li>
-			          <img src="images/fulbari.jpg" alt="">
+			          <img src="images/Douala.jpg" alt="Douala">
 					  <div class="caption">
 			     	  		<div class="header-info">
-							<h2><a href="#">Get Away On This Weekend</a></h2>
+							<h2><a href="#">Evadez-vous à Douala quand vous voulez.</a></h2>
 							<lable></lable>
-							<h1><a href="#">HIMALAYAN RESORT</a></h1>
+							<h1><a href="#">LA DECOUVERTE DU CAMEROUN</a></h1>
 							</div>
 			          </div>
 			        </li>
 			        <li>
-			          <img src="images/sl.jpg" alt="">
+			          <img src="images/Yaounde.jpg" alt="Yaounde">
 			        <div class="caption">
 			          	<div class="header-info">
-							<h2><a href="#">Have Fun On The Lake</a></h2>
+							<h2><a href="#">Amusez-vous à Yaoundé faite vous plaisir.</a></h2>
 							<lable></lable>
-							<h1><a href="#">HIMALAYAN RESORT</a></h1>
+							<h1><a href="#">LE GUIDE TOURISTIQUE</a></h1>
 							</div>
 			          </div>
 			        </li>
 			        <li>
-			          <img src="images/boudd.jpg" alt="">
+			          <img src="images/Ngaoundere.jpg" alt="Ngaoundere">
 			          <div class="caption">
 			          	<div class="header-info">
-							<h2><a href="#">Get Away On This Weekend</a></h2>
+							<h2><a href="#">Evadez-vous à Ngaoundéré quand vous voulez.</a></h2>
 							<lable></lable>
-							<h1><a href="#">See it! Feel it! Love it!</a></h1>
+							<h1><a href="#">LA DECOUVERTE DU CAMEROUN</a></h1>
 							</div>
 			          </div>
 			        </li>
 					<li>
-			          <img src="images/himalaya1.jpg" alt="">
+			          <img src="images/Dschang.jpg" alt="Dschang">
 			          <div class="caption">
 			          	<div class="header-info">
-							<h1><a href="#">The Destination</a></h1>
+							<h1><a href="#">Amusez-vous à Dshang faite vous plaisir.</a></h1>
 							<lable></lable>
-							<h2><a href="#">OF YOUR DREAMS</a></h2>
+							<h2><a href="#">LE GUIDE TOURISTIQUE</a></h2>
 							</div>
 			          </div>
 			        </li>
                     <li>
-			          <img src="images/classic.jpg" alt="">
+			          <img src="images/Foumban.jpg" alt="Foumban">
 			          <div class="caption">
 			          	<div class="header-info">
-							<h2><a href="#">Feel Protected</a></h2>
+							<h2><a href="#">Evadez-vous à Foumban quand vous voulez.</a></h2>
 							<lable></lable>
-							<h1><a href="#">During your Vacation</a></h1>
+							<h1><a href="#">LA DECOUVERTE DU CAMEROUN</a></h1>
 							</div>
 			          </div>
 			        </li>

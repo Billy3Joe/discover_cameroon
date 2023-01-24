@@ -78,7 +78,7 @@ $r=mysqli_num_rows($result);
 while($data=mysqli_fetch_array($result))
 {
 	
-		echo "<tr><td style=' padding:5px;'>$data[0]</td><td style=' padding:5px;'>$data[1]</td><td style=' padding:5px;'>$data[2]</td><td style=' padding:5px;'><img src='addverimages/$data[3]' style='height:50px' /></td></tr>";
+		echo "<tr><td style=' padding:5px; text-transform: uppercase; font-weight:bold;'>$data[0]</td><td style=' padding:5px; text-transform: uppercase; font-weight:bold;'>$data[1]</td><td style=' padding:5px;'>$data[2]</td><td style=' padding:5px;'><img src='addverimages/$data[3]' style='height:50px' /></td></tr>";
 
 }
 mysqli_close($cn);

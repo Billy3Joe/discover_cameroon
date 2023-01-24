@@ -89,7 +89,7 @@ while($data=mysqli_fetch_array($result))
 
 <tr><td align="center" style="background-color:#60B0E6; font-size:20px; font-family:Lucida Calligraphy; color:#FFF"><?php echo $data[1]; ?></td></tr>
 <tr><td class="image"><img src="Admin/packimages/<?php echo $data[5];?>" width="250px" height="250px" /></td></tr>
-<tr><td align="center" style="background-color:#60B0E6; font-size:20px; font-family:Lucida Calligraphy; color:#09F"><a href="detail.php?pid=<?php echo $data[0];   ?>"><font color="#FFFFFF">View Detail</font></a></td></tr>
+<tr><td align="center" style="background-color:#60B0E6; font-size:20px; font-family:Lucida Calligraphy; color:#09F"><a href="detail.php?pid=<?php echo $data[0];?>"><font color="#FFFFFF">View Detail</font></a></td></tr>
 </table>
 </td>
 <?php
