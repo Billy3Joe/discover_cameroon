@@ -25,7 +25,7 @@
 <?php include('function.php'); ?>
 <?php include('top.php'); ?>
 <!--/sticky-->
-<?php include('slider.php'); ?>
+<br><br><br><br><br>
 <div style="height:50px"></div>
 <div style="width:1000px; margin:auto"  >
 
